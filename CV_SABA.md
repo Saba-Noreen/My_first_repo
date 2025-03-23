@@ -1,6 +1,7 @@
 # SABA NOREEN 
-![picture](my_first_repo/th2/jpeg)
-#### DATA SCIENTISTS
+![picture](th2.jpeg)
+
+#### DATA SCIENTIST
 LAHORE,PUNJAB,PAKISTAN
 ### EDUCATION
 **PUCIT_FCIT**
