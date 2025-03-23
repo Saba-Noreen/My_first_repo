@@ -1,5 +1,5 @@
 # SABA NOREEN 
-![picture](C:\Users\HC\Pictures\th2.jpeg)
+![picture](my_first_repo/th2/jpeg)
 #### DATA SCIENTISTS
 LAHORE,PUNJAB,PAKISTAN
 ### EDUCATION
@@ -8,12 +8,14 @@ LAHORE,PUNJAB,PAKISTAN
 
 ### CONTACT
 - 📞 saba123@gmail.com
-- 🔗www.linkedin.com/in/saba-noreen
+- 🔗 https://www.linkedin.com/in/saba-noreen-0b12ba274/
 
 ### TOP SKILLS
 1. 🗄️ Database Management System
 2. 🐍 Python 
 3. 🔧 GitHub
+4. 💾  Sqlite
+5. 🛠️ Assembly Language
  
 ### SUMMARY
 *I'm a develper 💻 in training,still trying to figure out how to code without making the compiler cry 🚀.*
